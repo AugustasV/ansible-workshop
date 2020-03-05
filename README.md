@@ -2,7 +2,7 @@
 
 [More information about workshop](https://github.com/ansible/workshops/blob/master/exercises/ansible_rhel/README.md)
 
-[Workshop tasks]https://ansible.github.io/workshops/exercises/ansible_rhel/
+[Workshop tasks](https://ansible.github.io/workshops/exercises/ansible_rhel/)
 
 Ansible is a simple yet powerful IT automation engine for application deployment, configuration management, and orchestration that you can learn quickly.
 
